@@ -26,3 +26,19 @@ html {
     align-items: center;
     padding: 15px 20px;
 }
+.contenedor-header header .logo a{
+    font-family: 'Righteous';
+    font-size: 36px;
+    color: aliceblue;
+    text-decoration: none;
+}
+.contenedor-header header ul{
+    display: flex;
+    list-style: none;
+}
+.contenedor-header header nav ul li a{
+    text-align: none;
+    color: aquamarine;
+    margin: 0 15px;
+    
+}
